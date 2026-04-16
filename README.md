@@ -67,8 +67,8 @@ pytest tests/ -v
 
 ## Documentation
 
-- [docs/analisi-tecnica.md](docs/analisi-tecnica.md) — architecture, pipeline, algorithms, configuration
-- [docs/analisi-funzionale.md](docs/analisi-funzionale.md) — purpose, signals, risk levels, use cases, workflows
+- [docs/technical-analysis.md](docs/technical-analysis.md) — architecture, pipeline, algorithms, configuration
+- [docs/functional-analysis.md](docs/functional-analysis.md) — purpose, signals, risk levels, use cases, workflows
 
 ## License
 
